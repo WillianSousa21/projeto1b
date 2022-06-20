@@ -29,6 +29,7 @@ namespace projeto1b
             Console.WriteLine("Aluno:" + aluno.nome);
             Console.ReadKey();
 
+
         
 
         }
